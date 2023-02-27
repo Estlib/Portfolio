@@ -179,7 +179,7 @@
     </p>
     <p id="darkboxed">
         Heres all the levels in the game:
-        <table id="darkboxed">
+        <table style="text-align: center;" id="darkboxed">
             <tr>
                 <td><image src="images/spikerdaja02.png"></image></td>
                 <td>Level 1, The starting classroom.<br>Traditional paired up classroom layout type.</td>
@@ -227,18 +227,27 @@
         <image src="images/spikerdaja12.png"></image>
     </p>
     <p id="darkboxed">
-        Programming it was quite a task, as I had to find a way to generate everything necessary in an effective manner. The
-        While I have talked roughly how the code works above, seeing it for yourself is ultimately the best and thus, <br>
-        the code for all of the versions throughout the development process is available in the github repo below:<br>
+        Programming it was quite a task, as we had to find a way to generate everything necessary in an effective manner.<br>
+        While I have talked roughly how the code works above, seeing it for yourself is ultimately for the best and thus, <br>
+        the code for all of the versions throughout the development process, is available in the github repo below:<br>
         <a href="https://github.com/Estlib/Spikerdaja">Get source</a><br>
-        Do note that this repository was made after the fact and doesnt contain any actual git development history<br><br>
+        Do note that this repository was made after the fact and doesn't contain any actual git development history<br><br>
         A built excecutable is available here:<br>
         <a href="https://github.com/Estlib/Spikerdaja/tree/master/output">Get excecutable</a><br>
         Note that you also need the tthk.ppm file along with the .exe in the same folder. Download both files.<br><br>
 
         Credits:<br>
-        programmed by: Jüri Vaitmaa & Eva-Kristina Vesiallik
+        programmed by: Jüri Vaitmaa & Eva-Kristina Vesiallik<br>
         Overseen by: Kristjan Kivikangur
+        <br><br>
+        Libraries used:<br>
+        - Tkinter<br>
+        - Time<br>
+        - Keyboard module
+        <br><br>
+        Other resources:<br>
+        - Google<br>
+        - Original Game for reference by luksy of c404
         <br><br>
         <a href="#pagetop">Back to top</a>
     </p>
