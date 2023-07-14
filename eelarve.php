@@ -1,6 +1,6 @@
 <?php require("menu.php"); ?>
 <main class="main">
-    <h1 id="darkboxed">Monthly Budget Planner</h1>
+    <h1 id="darkboxed" id="pagetop">Monthly Budget Planner</h1>
     <br>
     <p style="text-align: center;" id="darkboxed">Monthly Budget Planner (Excel VBA)<br>
         <img src="images/planner01.png">
@@ -93,6 +93,29 @@
             <td>Yes, user is shown 3 last actions <br>aswell as how many actions have been <br>performed on the sheet in total<br>in the pseudo-terminal.</td>
         </tr>
     </table>
+    <a href="#pagetop">Back to top</a>
+    </p>
+    <p style="text-align: center;" id="darkboxed">Version 2<br>
+        <img src="images/planner02.png">
+    </p>
+    <p id="darkboxed">
+        <br>
+        Version 2 was created after the original assignment for a few reasons - I didn't see version 1 as "complete" and wanted to<br>
+        implement the cut features aswell as I actually had a need for those features myself to make using the planner as easy as<br>
+        it was originally intended to.<br>
+        <br>
+        <a href="#pagetop">Back to top</a>
+    </p>
+    <p style="text-align: center;" id="darkboxed">Source and files<br>
+        <img src="images/planner03.png">
+    </p>
+    <p id="darkboxed">
+        <br>
+        The Source is viewable within the excel files themselves, so here is just a download link to both versions:<br>
+        <a href="files/eelarvetabelJV.xlsm">Get version 1</a><br>
+        <a href="files/eelarvetabel2JV.xlsm">Get version 2</a><br>
+        <br>
+        <a href="#pagetop">Back to top</a>
     </p>
 </main>
 </div>

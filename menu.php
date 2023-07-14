@@ -145,7 +145,7 @@
     #darkboxed {
         margin: 15px 15px 15px 15px;
         border: 4px 4px 4px 4px white;
-        background-color: rgba(0, 0, 0, 0.308);
+        background-color: rgba(0, 0, 0, 0.500);
     }
     @media screen and (max-width: 600px){
         nav {
