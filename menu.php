@@ -130,7 +130,7 @@
     #woodworking:checked + li, #bakery:checked + li, #gaming:checked + li, #programming:checked + li, #computing:checked + li,#Jüri:checked + li{
         height: 105px; /* combined height of the section title and clickable links or additional lists - 2 in list +1 title*/
     }
-    #TARge21:checked + li{
+    #TARge21:checked + li, #Studies:checked + li{
         height: 70px; /* combined height of the section title and clickable links or additional lists - 1 in list +1 title*/
     }
     #Languages:checked + li{
@@ -189,6 +189,11 @@
 					<a href="gachaponMVC.php">Gachapon Machine API</a>
 					<a href="HHTRW.php">HHTRW (N/A)</a>
                     <a href="eelarve.php">Monthly Budget Planner</a>
+				</li>
+                <input type="radio" name="menu" id="Studies">
+				<li>
+					<label for="Studies" class="title">Studies</label>
+					<a href="teachercourseAreng.php">Õpetaja Arengumapp</a>
 				</li>
 				<input type="radio" name="menu" id="TARge21">
 				<li>
