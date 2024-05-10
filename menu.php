@@ -202,12 +202,12 @@
 				<li>
 					<label for="Studies" class="title">Õpetaja Arengumapp</label>
 					<a href="teachercourseAreng.php">Sisujuht</a>
-					<a href="teachercourseAreng.php">A</a>
-					<a href="teachercourseAreng.php">B</a>
-					<a href="teachercourseAreng.php">C</a>
-					<a href="teachercourseAreng.php">D</a>
-					<a href="teachercourseAreng.php">E</a>
-					<a href="teachercourseAreng.php">F</a>
+					<a href="A.php">A</a>
+					<a href="B.php">B</a>
+					<a href="C.php">C</a>
+					<a href="D.php">D</a>
+					<a href="E.php">E</a>
+					<a href="F.php">F</a>
 					<a href="teachercourseAreng.php">G</a>
 					<a href="teachercourseAreng.php">H</a>
 					<a href="teachercourseAreng.php">I</a>
