@@ -118,26 +118,29 @@
     #edit:checked + li, #archive:checked + li, #tools:checked + li, #preferences:checked + li {
         height: 179px;
     }
-    #estlib:checked + li {
-        height: 140px; /* combined height of the section title and clickable links or additional lists - 3 in list +1 title*/
-    }
-    #youtube:checked + li{
-        height: 210px; /* combined height of the section title and clickable links or additional lists - 5 in list +1 title*/
-    }
-    #ocmusic:checked + li, #covermusic:checked + li, #tf2maps:checked + li, #collecting:checked + li, {
-        height: 175px; /* combined height of the section title and clickable links or additional lists - 4 in list +1 title*/
+    #TARge21:checked + li{
+        height: 70px; /* combined height of the section title and clickable links or additional lists - 1 in list +1 title*/
     }
     #woodworking:checked + li, #bakery:checked + li, #gaming:checked + li, #programming:checked + li, #computing:checked + li,#Jüri:checked + li{
         height: 105px; /* combined height of the section title and clickable links or additional lists - 2 in list +1 title*/
     }
-    #TARge21:checked + li, #Studies:checked + li{
-        height: 70px; /* combined height of the section title and clickable links or additional lists - 1 in list +1 title*/
+    #estlib:checked + li {
+        height: 140px; /* combined height of the section title and clickable links or additional lists - 3 in list +1 title*/
+    }
+    #ocmusic:checked + li, #covermusic:checked + li, #tf2maps:checked + li, #collecting:checked + li {
+        height: 175px; /* combined height of the section title and clickable links or additional lists - 4 in list +1 title*/
+    }
+    #youtube:checked + li{
+        height: 210px; /* combined height of the section title and clickable links or additional lists - 5 in list +1 title*/
     }
     #Languages:checked + li{
         height: 245px; /* combined height of the section title and clickable links or additional lists - 6 in list +1 title*/
     }
     #Projects:checked + li{
         height: 280px; /* combined height of the section title and clickable links or additional lists - 7 in list +1 title*/
+    }
+    #Studies:checked + li{
+        height: 475px; /* combined height of the section title and clickable links or additional lists - 12 in list +1 title*/
     }
     i {
         margin-right: 12px;
@@ -146,6 +149,11 @@
         margin: 15px 15px 15px 15px;
         border: 4px 4px 4px 4px white;
         background-color: rgba(0, 0, 0, 0.500);
+    }
+    #softalertboxed {
+        margin: 15px 15px 15px 15px;
+        border: 4px 4px 4px 4px yellow;
+        background-color: yellow;
     }
     @media screen and (max-width: 600px){
         nav {
@@ -192,8 +200,20 @@
 				</li>
                 <input type="radio" name="menu" id="Studies">
 				<li>
-					<label for="Studies" class="title">Studies</label>
-					<a href="teachercourseAreng.php">Õpetaja Arengumapp</a>
+					<label for="Studies" class="title">Õpetaja Arengumapp</label>
+					<a href="teachercourseAreng.php">Sisujuht</a>
+					<a href="teachercourseAreng.php">A</a>
+					<a href="teachercourseAreng.php">B</a>
+					<a href="teachercourseAreng.php">C</a>
+					<a href="teachercourseAreng.php">D</a>
+					<a href="teachercourseAreng.php">E</a>
+					<a href="teachercourseAreng.php">F</a>
+					<a href="teachercourseAreng.php">G</a>
+					<a href="teachercourseAreng.php">H</a>
+					<a href="teachercourseAreng.php">I</a>
+					<a href="teachercourseAreng.php">J</a>
+					<a href="teachercourseAreng.php">K</a>
+					<a href="teachercourseAreng.php">L</a>
 				</li>
 				<input type="radio" name="menu" id="TARge21">
 				<li>
